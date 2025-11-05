@@ -1,5 +1,8 @@
 # 🌐 Rimsha Imran — Full Stack Developer & CTO at [SyncOps.Tech](https://syncops.tech)
 
+🔗 **Personal Website:** [https://rimshaimran.tech](https://rimshaimran.tech)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/rimshaimran-syncops](https://www.linkedin.com/in/rimshaimran-syncops)
+
 👋 Hi! I'm **Rimsha Imran**, a passionate **Full Stack Developer** building scalable, AI-powered SaaS platforms under the **[SyncOps](https://syncops.tech)** ecosystem.
 
 🚀 I specialize in **ASP.NET Core**, **Next.js**, **Angular**, **Vue**, **Node.js**, and **Python**, combining solid backend architecture with modern UI frameworks.
