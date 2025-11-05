@@ -53,8 +53,8 @@ Git · REST APIs · GraphQL · JWT Auth · WebSockets · Firebase · Microservic
 
 ## 🌟 Portfolio & Links
 
-- 🧭 Personal Portfolio: https://rimshaimran.tech
-- 🏢 Company Website: https://syncops.tech
-- 💼 LinkedIn: linkedin.com/in/rimshaimran-syncops
-- 📧 Email: rimsha@rimshaimran.tech  
+- 🧭 **Personal Portfolio:** [https://rimshaimran.tech](https://rimshaimran.tech)  
+- 🏢 **Company Website:** [https://syncops.tech](https://syncops.tech)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/rimshaimran-syncops](https://www.linkedin.com/in/rimshaimran-syncops)  
+- 📧 **Email:** [rimsha@rimshaimran.tech](mailto:rimsha@rimshaimran.tech)
 
